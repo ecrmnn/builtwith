@@ -1,10 +1,10 @@
 # builtwith
 > Scrape data from BuiltWith.com
 
-[![Build Status](https://travis-ci.org/ecrmnn/builtwith.svg?branch=master)](https://travis-ci.org/ecrmnn/builtwith)
-[![npm version](https://img.shields.io/npm/v/builtwith.svg)](http://badge.fury.io/js/builtwith)
-[![npm version](https://img.shields.io/npm/dm/builtwith.svg)](http://badge.fury.io/js/builtwith)
-[![npm version](https://img.shields.io/npm/l/builtwith.svg)](http://badge.fury.io/js/builtwith)
+[![Travis](https://img.shields.io/travis/ecrmnn/builtwith.svg?style=flat-square)](https://travis-ci.org/ecrmnn/builtwith.svg?branch=master)
+[![npm version](https://img.shields.io/npm/v/builtwith.svg?style=flat-square)](http://badge.fury.io/js/builtwith)
+[![npm downloads](https://img.shields.io/npm/dm/builtwith.svg?style=flat-square)](http://badge.fury.io/js/builtwith)
+[![npm license](https://img.shields.io/npm/l/builtwith.svg?style=flat-square)](http://badge.fury.io/js/builtwith)
 
 ### Installation
 ```bash
