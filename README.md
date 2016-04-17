@@ -44,5 +44,8 @@ builtWith('github.com')
 //=>  }
 ```
 
+### Related
+- [builtwith-cli](https://github.com/ecrmnn/builtwith-cli) - CLI for this module
+
 ### License
 MIT © [Daniel Eckermann](http://danieleckermann.com)
