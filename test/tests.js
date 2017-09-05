@@ -40,7 +40,7 @@ describe('Analyze Wordpress.org Tech Profile', function () {
       });
   })
 
-  it('Uses Laravel', function () {
+  it('Uses Wordpress', function () {
     const frameworksAsString = JSON.stringify(wordpressTechProfile);
     const wordpressCount = frameworksAsString.match(/WordPress/g).length;
 
@@ -62,9 +62,9 @@ describe('Analyze Laravel.com Tech Profile', function () {
       });
   })
 
-  it('Uses Laravel', function () {
+  it('Uses Mailgun', function () {
     const frameworksAsString = JSON.stringify(laravelTechProfile);
-    const laravelCount = frameworksAsString.match(/Laravel/g).length;
+    const laravelCount = frameworksAsString.match(/Mailgun/g).length;
 
     expect(laravelCount).to.be.above(0);
   })
